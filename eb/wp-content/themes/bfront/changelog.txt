@@ -1,0 +1,31 @@
+== Changelog ==
+
+= Version: 1.0.9 =
+* Testimonial Section added and Minor corrections
+
+= Version: 1.0.8 =
+* Minor corrections and enhancements
+
+= Version: 1.0.7 =
+* Minor corrections
+
+= Version: 1.0.6 =
+* some corrections and minor bug fixes and demo content correction
+
+= Version: 1.0.5 =
+* some corrections and minor bug fixes
+
+= Version: 1.0.4 =
+* some corrections and bug fixes
+
+= Version: 1.0.3 =
+* some corrections
+
+= Version: 1.0.2 =
+* Minor Bug Fixes
+
+= Version: 1.0.1 =
+* Minor Bug Fixes
+
+= Version 1.0.0 =
+  Bfront Theme is created on 20-12-2015.
